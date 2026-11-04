@@ -1,0 +1,774 @@
+{
+  "schema_version": 2,
+  "system": "Nintendo - Switch 2",
+  "source_policy": "manual-registration-v1",
+  "status": "complete",
+  "games": {
+    "AAAAA": {
+      "serial": "AAAAA",
+      "serial_identifiers": [
+        "AAAAA"
+      ],
+      "entries": [
+        {
+          "provider": "manual",
+          "name": "Mario Kart World",
+          "serial_raw": "AAAAA",
+          "serials": [
+            "AAAAA"
+          ],
+          "source_provenance": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAAAA",
+            "reference": "https://www.thecoverproject.net/view.php?game_id=19647"
+          }
+        }
+      ],
+      "images": {
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "d929d0dfe8adfc7e0b5aef134e092ca6743bc0af727748df31824857f9822d85",
+          "bytes": 3117452,
+          "width": 4000,
+          "height": 3075,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 14851992,
+              "lossy90": 3117452
+            }
+          },
+          "path": "AAAAA/cover_full.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\d929d0dfe8adfc7e0b5aef134e092ca6743bc0af727748df31824857f9822d85.bin",
+            "original_blob": "manual\\blobs\\93e89779a46433aeb675bda08d8b3b8d5e12ae440ed7c4ecc7a472705206ea90.bin",
+            "filename": "nintendo_switch_2.mariokartworld_US.1750353848151803420.jpg",
+            "source_sha256": "93e89779a46433aeb675bda08d8b3b8d5e12ae440ed7c4ecc7a472705206ea90",
+            "updated_at": "2026-11-04T05:03:52.570004+00:00"
+          }
+        },
+        "inlay": {
+          "kind": "inlay",
+          "sha256": "f13d10fad3a11aa8187a04e4eaca430956cb3443c8165ab91acb9f68f8321e4f",
+          "bytes": 2502832,
+          "width": 4000,
+          "height": 3075,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 14328484,
+              "lossy90": 2502832
+            }
+          },
+          "path": "AAAAA/inlay.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\f13d10fad3a11aa8187a04e4eaca430956cb3443c8165ab91acb9f68f8321e4f.bin",
+            "original_blob": "manual\\blobs\\be9bf4674d9f7dda85a52148489850e79b4ac8ecd40a6e4176d3dfda62001df4.bin",
+            "filename": "nintendo_switch_2.mariokartworld_US.1750353873952889383.jpg",
+            "source_sha256": "be9bf4674d9f7dda85a52148489850e79b4ac8ecd40a6e4176d3dfda62001df4",
+            "updated_at": "2026-11-04T05:04:52.626350+00:00"
+          }
+        },
+        "label": {
+          "kind": "label",
+          "sha256": "16ede5bc07e1e44f7c700aaf9baed56abbc70aee78970f0d7d5521703e011a0e",
+          "bytes": 232106,
+          "width": 834,
+          "height": 1142,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1065864,
+              "lossy90": 232106
+            }
+          },
+          "path": "AAAAA/label.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\16ede5bc07e1e44f7c700aaf9baed56abbc70aee78970f0d7d5521703e011a0e.bin",
+            "original_blob": "manual\\blobs\\b22d8dcbc39177f4e2e69d092ed9cbd7b66c4a05b198f53619be6d1b8076d513.bin",
+            "filename": "nintendo_switch_2.mariokartworld_US.175035389136383764.jpg",
+            "source_sha256": "b22d8dcbc39177f4e2e69d092ed9cbd7b66c4a05b198f53619be6d1b8076d513",
+            "updated_at": "2026-11-04T05:05:39.893503+00:00"
+          }
+        },
+        "cover_front": {
+          "kind": "cover_front",
+          "sha256": "6698f21e971352e30765e9aa8afcd60527c1dbdf21127155695ac7a8750ef272",
+          "bytes": 1355234,
+          "width": 1900,
+          "height": 3075,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6801368,
+              "lossy90": 1355234
+            }
+          },
+          "path": "AAAAA/cover_front.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\6698f21e971352e30765e9aa8afcd60527c1dbdf21127155695ac7a8750ef272.bin",
+            "original_blob": "manual\\blobs\\5b82b2057ec7d645cadc2262dc015857e890049005daa12966dc6ce1df5a7d87.bin",
+            "filename": "nintendo_switch_2.mariokartworld_US.1750353848151803420 copia.webp",
+            "source_sha256": "5b82b2057ec7d645cadc2262dc015857e890049005daa12966dc6ce1df5a7d87",
+            "updated_at": "2026-11-04T05:17:31.804542+00:00"
+          }
+        },
+        "logo": {
+          "kind": "logo",
+          "sha256": "7356f196538d8827e42b865fef79455e7c52a39e0cd8ad78a200e51a4c2ea0b1",
+          "bytes": 359738,
+          "width": 2880,
+          "height": 1502,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1427322,
+              "lossy90": 359738
+            }
+          },
+          "path": "AAAAA/logo.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\7356f196538d8827e42b865fef79455e7c52a39e0cd8ad78a200e51a4c2ea0b1.bin",
+            "original_blob": "manual\\blobs\\daaf89aaf4712b31888dbef90e2deafc18e253722ae4b922dc0f26459ada1003.bin",
+            "filename": "2880px-Mario_Kart_World_logo.webp",
+            "source_sha256": "daaf89aaf4712b31888dbef90e2deafc18e253722ae4b922dc0f26459ada1003",
+            "updated_at": "2026-11-04T06:54:03.120994+00:00"
+          }
+        }
+      },
+      "editor_added_entries": [
+        {
+          "method": "manual",
+          "source": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAAAA",
+            "reference": "https://www.thecoverproject.net/view.php?game_id=19647"
+          },
+          "serial": "AAAAA",
+          "at": "2026-11-04T05:02:19.153175+00:00"
+        }
+      ],
+      "metadata_overrides": {
+        "labels": {
+          "en": "Mario Kart World"
+        },
+        "fields": {
+          "developer": [
+            {
+              "value": "Nintendo",
+              "source": "manual"
+            }
+          ],
+          "publisher": [
+            {
+              "value": "Nintendo",
+              "source": "manual"
+            }
+          ],
+          "release_date": [
+            {
+              "value": {
+                "time": "+2025-06-05T00:00:00Z",
+                "precision": 11,
+                "timezone": 0,
+                "before": 0,
+                "after": 0,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+              },
+              "source": "manual"
+            }
+          ]
+        }
+      }
+    },
+    "AAB5A": {
+      "serial": "AAB5A",
+      "serial_identifiers": [
+        "AAB5A"
+      ],
+      "entries": [
+        {
+          "provider": "manual",
+          "name": "Pokémon Pokopia",
+          "serial_raw": "AAB5A",
+          "serials": [
+            "AAB5A"
+          ],
+          "source_provenance": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAB5A",
+            "reference": "https://www.thecoverproject.net/view.php?cover_id=33856"
+          }
+        }
+      ],
+      "images": {
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "f21b701da93f8319aab3262a7605a2a3f907090d70245b357a879521a6989894",
+          "bytes": 2375546,
+          "width": 2793,
+          "height": 2160,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 8403462,
+              "lossy90": 2375546
+            }
+          },
+          "path": "AAB5A/cover_full.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\f21b701da93f8319aab3262a7605a2a3f907090d70245b357a879521a6989894.bin",
+            "original_blob": "manual\\blobs\\33d82538e9e799dbe8c1c8ebe6d5a6ebc4deed27b122972baf15f7569a9cf1c0.bin",
+            "filename": "nintendo_switch_2.pokmonpokopia_US.17762026831631077721 copia.webp",
+            "source_sha256": "33d82538e9e799dbe8c1c8ebe6d5a6ebc4deed27b122972baf15f7569a9cf1c0",
+            "updated_at": "2026-11-04T05:59:59.706432+00:00"
+          }
+        },
+        "inlay": {
+          "kind": "inlay",
+          "sha256": "873af5496576a7c540c1e01f864b6d96071f7533223a60f9bbe4f1bf1a862f1e",
+          "bytes": 3205288,
+          "width": 2788,
+          "height": 2160,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 11421704,
+              "lossy90": 3205288
+            }
+          },
+          "path": "AAB5A/inlay.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\873af5496576a7c540c1e01f864b6d96071f7533223a60f9bbe4f1bf1a862f1e.bin",
+            "original_blob": "manual\\blobs\\98ea088f596131a14b338364cb5670e2479de1f77ee4864563f6c2b0b2f7d325.bin",
+            "filename": "nintendo_switch_2.pokmonpokopia_US.17762031731208617994 copia.webp",
+            "source_sha256": "98ea088f596131a14b338364cb5670e2479de1f77ee4864563f6c2b0b2f7d325",
+            "updated_at": "2026-11-04T06:00:59.358763+00:00"
+          }
+        },
+        "cover_front": {
+          "kind": "cover_front",
+          "sha256": "6f43e6c1b12346590582f07be853f57d2e2d51959b95cd25bd4e0a834fdce84c",
+          "bytes": 1263670,
+          "width": 1329,
+          "height": 2160,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 4640260,
+              "lossy90": 1263670
+            }
+          },
+          "path": "AAB5A/cover_front.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\6f43e6c1b12346590582f07be853f57d2e2d51959b95cd25bd4e0a834fdce84c.bin",
+            "original_blob": "manual\\blobs\\15d95cef56dc0925eeb1c5ee4ed9e5b2005e45651a0cc4ef28a3a64b3fd0418d.bin",
+            "filename": "nintendo_switch_2.pokmonpokopia_US.17762026831631077721 copia2.webp",
+            "source_sha256": "15d95cef56dc0925eeb1c5ee4ed9e5b2005e45651a0cc4ef28a3a64b3fd0418d",
+            "updated_at": "2026-11-04T06:01:47.494342+00:00"
+          }
+        },
+        "logo": {
+          "kind": "logo",
+          "sha256": "6635ec88a05c6b6a3e1f1a17d615632ab25fd6ef53ee2834e1e85bd86b711c08",
+          "bytes": 453656,
+          "width": 2624,
+          "height": 1764,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1469302,
+              "lossy90": 453656
+            }
+          },
+          "path": "AAB5A/logo.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\6635ec88a05c6b6a3e1f1a17d615632ab25fd6ef53ee2834e1e85bd86b711c08.bin",
+            "original_blob": "manual\\blobs\\b897e86b55569ac59106af1ad53fec63edffe25b05e356506f5b89a50d8447cd.bin",
+            "filename": "b28b14a22411ebbd1254fe6641c64af7.png",
+            "source_sha256": "b897e86b55569ac59106af1ad53fec63edffe25b05e356506f5b89a50d8447cd",
+            "updated_at": "2026-11-04T07:30:11.297548+00:00"
+          }
+        }
+      },
+      "editor_added_entries": [
+        {
+          "method": "manual",
+          "source": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAB5A",
+            "reference": "https://www.thecoverproject.net/view.php?cover_id=33856"
+          },
+          "serial": "AAB5A",
+          "at": "2026-11-04T05:57:53.285891+00:00"
+        }
+      ],
+      "metadata_overrides": {
+        "labels": {
+          "en": "Pokémon Pokopia"
+        }
+      }
+    },
+    "AAACA": {
+      "serial": "AAACA",
+      "serial_identifiers": [
+        "AAACA"
+      ],
+      "entries": [
+        {
+          "provider": "manual",
+          "name": "Donkey Kong Bananza",
+          "serial_raw": "AAACA",
+          "serials": [
+            "AAACA"
+          ],
+          "source_provenance": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAACA",
+            "reference": "https://www.thecoverproject.net/view.php?cover_id=30726"
+          }
+        }
+      ],
+      "images": {
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "f88807b3eecd3cc2894276dcfc1c754f1d4ab9a1ea243a27f5249f929f53f6fe",
+          "bytes": 1431018,
+          "width": 2465,
+          "height": 1890,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6575524,
+              "lossy90": 1431018
+            }
+          },
+          "path": "AAACA/cover_full.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\f88807b3eecd3cc2894276dcfc1c754f1d4ab9a1ea243a27f5249f929f53f6fe.bin",
+            "original_blob": "manual\\blobs\\e9f18a6a8cc944be2f2d91acdd71db8d81d625cb00100e57a3cd99fbe24d22f1.bin",
+            "filename": "nintendo_switch_2.donkeykongbananza_US.17573872221596277712.jpg",
+            "source_sha256": "e9f18a6a8cc944be2f2d91acdd71db8d81d625cb00100e57a3cd99fbe24d22f1",
+            "updated_at": "2026-11-04T06:05:48.815162+00:00"
+          }
+        },
+        "inlay": {
+          "kind": "inlay",
+          "sha256": "2acc9a4f04e201b479d5b777cab609a23414355831a321da0811469f6ed4c85c",
+          "bytes": 1082030,
+          "width": 2465,
+          "height": 1890,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6643586,
+              "lossy90": 1082030
+            }
+          },
+          "path": "AAACA/inlay.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\2acc9a4f04e201b479d5b777cab609a23414355831a321da0811469f6ed4c85c.bin",
+            "original_blob": "manual\\blobs\\ff4aaaee1f5300c27e4448f2367180aab29d2e7bba35ea186e982caabdb0a8c2.bin",
+            "filename": "nintendo_switch_2.donkeykongbananza_US.17573872442081356813.jpg",
+            "source_sha256": "ff4aaaee1f5300c27e4448f2367180aab29d2e7bba35ea186e982caabdb0a8c2",
+            "updated_at": "2026-11-04T06:06:47.538638+00:00"
+          }
+        },
+        "label": {
+          "kind": "label",
+          "sha256": "79aed5d15dc2ca82a609c3ecbf3663de9bbdd4105dd51810f4e762350abea0bb",
+          "bytes": 24950,
+          "width": 208,
+          "height": 284,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 95546,
+              "lossy90": 24950
+            }
+          },
+          "path": "AAACA/label.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\79aed5d15dc2ca82a609c3ecbf3663de9bbdd4105dd51810f4e762350abea0bb.bin",
+            "original_blob": "manual\\blobs\\2646b99f87d9b764413226f0ea6afa77b4526ab0739d8bdbd0863ab1ca7c7686.bin",
+            "filename": "nintendo_switch_2.donkeykongbananza_US.17579871861230045814.jpg",
+            "source_sha256": "2646b99f87d9b764413226f0ea6afa77b4526ab0739d8bdbd0863ab1ca7c7686",
+            "updated_at": "2026-11-04T06:07:13.082314+00:00"
+          }
+        },
+        "cover_front": {
+          "kind": "cover_front",
+          "sha256": "b097d1199016afd9f282003c39bb7d039c4a3c0d7cb6d2715cbdec24f4464c45",
+          "bytes": 643488,
+          "width": 1168,
+          "height": 1890,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 2766308,
+              "lossy90": 643488
+            }
+          },
+          "path": "AAACA/cover_front.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\b097d1199016afd9f282003c39bb7d039c4a3c0d7cb6d2715cbdec24f4464c45.bin",
+            "original_blob": "manual\\blobs\\3b6b97fd86b6f1a57d722b2dca5cfe0240717173789c68da8b0ac0667c848c77.bin",
+            "filename": "nintendo_switch_2.donkeykongbananza_US.17573872221596277712 copia.webp",
+            "source_sha256": "3b6b97fd86b6f1a57d722b2dca5cfe0240717173789c68da8b0ac0667c848c77",
+            "updated_at": "2026-11-04T06:07:45.107778+00:00"
+          }
+        },
+        "logo": {
+          "kind": "logo",
+          "sha256": "a73395f77b4f4fdb54793d3fcf4da6b3e750a8ff8d18c79e0831a01b59e8f0a6",
+          "bytes": 3258532,
+          "width": 7000,
+          "height": 3423,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 5162960,
+              "lossy90": 3258532
+            }
+          },
+          "path": "AAACA/logo.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\a73395f77b4f4fdb54793d3fcf4da6b3e750a8ff8d18c79e0831a01b59e8f0a6.bin",
+            "original_blob": "manual\\blobs\\b8dde276f6440d0c1edf29b138b56d25a3ce63b73781d8f7206109c1b1f115e6.bin",
+            "filename": "Donkey-Kong-Bananza_2025_06-18-25_032.png",
+            "source_sha256": "b8dde276f6440d0c1edf29b138b56d25a3ce63b73781d8f7206109c1b1f115e6",
+            "updated_at": "2026-11-04T07:32:02.703615+00:00"
+          }
+        }
+      },
+      "editor_added_entries": [
+        {
+          "method": "manual",
+          "source": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AAACA",
+            "reference": "https://www.thecoverproject.net/view.php?cover_id=30726"
+          },
+          "serial": "AAACA",
+          "at": "2026-11-04T06:04:41.692628+00:00"
+        }
+      ],
+      "metadata_overrides": {
+        "labels": {
+          "en": "Donkey Kong Bananza"
+        }
+      }
+    },
+    "AADLA": {
+      "serial": "AADLA",
+      "serial_identifiers": [
+        "AADLA"
+      ],
+      "entries": [
+        {
+          "provider": "manual",
+          "name": "Splatoon Raiders",
+          "serial_raw": "AADLA",
+          "serials": [
+            "AADLA"
+          ],
+          "source_provenance": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AADLA"
+          }
+        }
+      ],
+      "images": {
+        "cover_front": {
+          "kind": "cover_front",
+          "sha256": "d78369e818c2d69416c4980ecbbaaf667cc377b359cbb18ab214f5c576d7c40c",
+          "bytes": 239530,
+          "width": 779,
+          "height": 1263,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1110484,
+              "lossy90": 239530
+            }
+          },
+          "path": "AADLA/cover_front.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\d78369e818c2d69416c4980ecbbaaf667cc377b359cbb18ab214f5c576d7c40c.bin",
+            "original_blob": "manual\\blobs\\8b1cf789a618ed0c6085a5ca3ac7c06f89e9448559c2d2b7c7bde85b5c2d3f6d.bin",
+            "filename": "raiderEN_recto copia2.webp",
+            "source_sha256": "8b1cf789a618ed0c6085a5ca3ac7c06f89e9448559c2d2b7c7bde85b5c2d3f6d",
+            "updated_at": "2026-11-04T06:19:44.615270+00:00"
+          }
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "b34a41a276e17176ecd8645f2434463be9ffd765b6ba0a4ff9d3ae61bacb5d90",
+          "bytes": 594974,
+          "width": 1642,
+          "height": 1263,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 2434244,
+              "lossy90": 594974
+            }
+          },
+          "path": "AADLA/cover_full.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\b34a41a276e17176ecd8645f2434463be9ffd765b6ba0a4ff9d3ae61bacb5d90.bin",
+            "original_blob": "manual\\blobs\\92e780db570c3c4b433d19c27815a6f25bd01490dd7f43fa8b0f29d3e8f5a838.bin",
+            "filename": "raiderEN_recto copia.webp",
+            "source_sha256": "92e780db570c3c4b433d19c27815a6f25bd01490dd7f43fa8b0f29d3e8f5a838",
+            "updated_at": "2026-11-04T06:46:20.428259+00:00"
+          }
+        },
+        "inlay": {
+          "kind": "inlay",
+          "sha256": "9123753867756e330b26606137ad662d2832358d0de1f3040930e1dd8b76c700",
+          "bytes": 636768,
+          "width": 1646,
+          "height": 1268,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 2324286,
+              "lossy90": 636768
+            }
+          },
+          "path": "AADLA/inlay.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\9123753867756e330b26606137ad662d2832358d0de1f3040930e1dd8b76c700.bin",
+            "original_blob": "manual\\blobs\\52483e48d2cb6e2e036c95cc26c839f65b8187628611fe563478bb618d9fd9f5.bin",
+            "filename": "raiderEN_verso copia.webp",
+            "source_sha256": "52483e48d2cb6e2e036c95cc26c839f65b8187628611fe563478bb618d9fd9f5",
+            "updated_at": "2026-11-04T06:46:42.210188+00:00"
+          }
+        },
+        "logo": {
+          "kind": "logo",
+          "sha256": "e175a42cc1fe11d300b6c6ca4e579f0c4fb453091593a1ebc38d42c16a141d3a",
+          "bytes": 53538,
+          "width": 646,
+          "height": 318,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 191948,
+              "lossy90": 53538
+            }
+          },
+          "path": "AADLA/logo.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\e175a42cc1fe11d300b6c6ca4e579f0c4fb453091593a1ebc38d42c16a141d3a.bin",
+            "original_blob": "manual\\blobs\\acdcb9cc40c295c4f1dee5b343ae5a9e52f3a89e72f2b2d8a2fb0dcaac43c91a.bin",
+            "filename": "sr-logo-2x (1).png",
+            "source_sha256": "acdcb9cc40c295c4f1dee5b343ae5a9e52f3a89e72f2b2d8a2fb0dcaac43c91a",
+            "updated_at": "2026-11-04T07:02:18.457488+00:00"
+          }
+        }
+      },
+      "editor_added_entries": [
+        {
+          "method": "manual",
+          "source": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AADLA"
+          },
+          "serial": "AADLA",
+          "at": "2026-11-04T06:19:22.634220+00:00"
+        }
+      ],
+      "metadata_overrides": {
+        "labels": {
+          "en": "Splatoon Raiders"
+        }
+      }
+    },
+    "AA9JA": {
+      "serial": "AA9JA",
+      "serial_identifiers": [
+        "AA9JA"
+      ],
+      "entries": [
+        {
+          "provider": "manual",
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "serial_raw": "AA9JA",
+          "serials": [
+            "AA9JA"
+          ],
+          "source_provenance": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AA9JA"
+          }
+        }
+      ],
+      "images": {
+        "logo": {
+          "kind": "logo",
+          "sha256": "bf54ab6a5680a48c5a31837a6eba45fc251671e46a88e0a1a13975d83b5b4552",
+          "bytes": 414524,
+          "width": 2300,
+          "height": 1700,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1115238,
+              "lossy90": 414524
+            }
+          },
+          "path": "AA9JA/logo.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\bf54ab6a5680a48c5a31837a6eba45fc251671e46a88e0a1a13975d83b5b4552.bin",
+            "original_blob": "manual\\blobs\\ef1aeb0a6d329df2aff841894322d7ce726112682285cd3f34f881fd713ba788.bin",
+            "filename": "OoTNS2_English_Logo.png",
+            "source_sha256": "ef1aeb0a6d329df2aff841894322d7ce726112682285cd3f34f881fd713ba788",
+            "updated_at": "2026-11-04T07:38:06.600258+00:00"
+          }
+        }
+      },
+      "editor_added_entries": [
+        {
+          "method": "manual",
+          "source": {
+            "provider": "manual",
+            "verification": "user_supplied",
+            "field": "user_serial",
+            "value": "AA9JA"
+          },
+          "serial": "AA9JA",
+          "at": "2026-11-04T07:37:53.479653+00:00"
+        }
+      ]
+    }
+  },
+  "encoding": {
+    "format": "WEBP",
+    "quality": 90,
+    "method": 4,
+    "lossless": false,
+    "exact": true,
+    "compression_policy": "smallest-lossless-or-lossy90-v2",
+    "pillow": "12.3.0",
+    "webp": "1.6.0"
+  },
+  "manual_edits": {
+    "schema_version": 1,
+    "images": 19,
+    "updated_at": "2026-11-04T07:38:06.680608+00:00"
+  }
+}
