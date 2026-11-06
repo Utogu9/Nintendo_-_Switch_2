@@ -739,6 +739,33 @@
             "source_sha256": "ef1aeb0a6d329df2aff841894322d7ce726112682285cd3f34f881fd713ba788",
             "updated_at": "2026-11-04T07:38:06.600258+00:00"
           }
+        },
+        "cover_front": {
+          "kind": "cover_front",
+          "sha256": "701ccaf30e5e613567149c29774f7a46e441d077e58cc59fd735225b840cefe9",
+          "bytes": 501248,
+          "width": 1365,
+          "height": 2220,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 2728448,
+              "lossy90": 501248
+            }
+          },
+          "path": "AA9JA/cover_front.webp",
+          "sources": [],
+          "manual": {
+            "blob": "manual\\blobs\\701ccaf30e5e613567149c29774f7a46e441d077e58cc59fd735225b840cefe9.bin",
+            "original_blob": "manual\\blobs\\962ecf8c561ebeac1193df8c31ffdfa864143b60fe4966b84fe315b123f15ee3.bin",
+            "filename": "Zelda.webp",
+            "source_sha256": "962ecf8c561ebeac1193df8c31ffdfa864143b60fe4966b84fe315b123f15ee3",
+            "updated_at": "2026-11-06T03:41:13.869069+00:00"
+          }
         }
       },
       "editor_added_entries": [
@@ -768,7 +795,7 @@
   },
   "manual_edits": {
     "schema_version": 1,
-    "images": 19,
-    "updated_at": "2026-11-04T07:38:06.680608+00:00"
+    "images": 20,
+    "updated_at": "2026-11-06T03:41:13.971317+00:00"
   }
 }
